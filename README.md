@@ -1,1 +1,1 @@
-# EASY NEWS SCRAPPER
+ <h1 style = "color:red;">EASY NEWS App </h1>
