@@ -1,1 +1,2 @@
- <h1 style = "color:red;">EASY NEWS App </h1>
+# EASY NEWS App
+<img src="./img/news.jpg" alt="news a"/>
